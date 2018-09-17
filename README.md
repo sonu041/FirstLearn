@@ -1,8 +1,7 @@
-# first_learn
+# First Learn
 
-A new Flutter application.
+Let's begin the learning.
 
-## Getting Started
+## Technology Used
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+[Flutter](https://flutter.io/).
